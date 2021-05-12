@@ -1,0 +1,10 @@
+Squirtle;43;9;amarillo
+Remaraid;3;2;amarillo
+Croc;33;33;verde
+Lamb;13;31;purpura
+Joltik;22;44;azul
+Slowing;98;33;rojo
+Ludicolo;22;90;dorado
+Bascolino;10;88;dorado
+Seadra;33;29;azul
+Tentacruel;34;98;negro
